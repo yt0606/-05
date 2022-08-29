@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxf96e23e8c9e8bed1",
+# 公众号appSecret
+"app_secret": "51851f04d4c9f66c1ce265d8a7b76926",
+# 模板消息id
+"template_id": "cdwUe-7l_fG-Kzf_bjP9_16PzE2kY6mgH8_-vw9_uuU",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oSqdN5rp3Ji_KVj6_upElmksTu0c"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "eecaeed2ba7d43329fdefe0ea54d5e9a",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "南昌市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "小祝", "birthday": "2000-02-24"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2022-06-10",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "很高兴和你共度余生",
+# 金句英文
+"note_en": "You are the one I'm still in love with.  "
+}
